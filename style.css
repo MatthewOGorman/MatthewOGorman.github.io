@@ -34,14 +34,15 @@ header, footer {
 
 /* TYPOGRAPHY*/
 h1 {
-    font-size:60px;
+		font-family: 'Alfa Slab One', cursive;
+    font-size:40px;
     color:yellow; /* white */
     text-transform: uppercase;
    } 
 h2 {
     font-size: 50px;
-    font-family: 'Lato', sans-serif; 
-    text-transform: uppercase;
+font-family: 'arial', regular; 
+	text-transform: uppercase;
    }
 h1,h2,p,li {
             padding-bottom: 1em; 
@@ -168,6 +169,5 @@ background-image: linear-gradient(to right top, #6666cc, #6262cc, #5d5dcc, #5959
         color: white;
         clear: both;
 } 
-		header{
-	background-image:
-	
+	}
+}
